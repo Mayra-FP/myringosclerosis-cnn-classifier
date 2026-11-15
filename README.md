@@ -52,7 +52,8 @@ exercise in CNN architecture and hyperparameter behavior.
 
 ## Repository contents
 
-- `docs/report.pdf` — Full write-up (in Spanish)
+- `docs/MScThesis_fuentes_presentation.pptx` — Full write-up (in Spanish)
+- `docs/MScThesis_fuentes.pdf` — Full write-up (in Spanish)
 - `notebooks/` — Model development and training notebooks
 
 ## Tech stack
